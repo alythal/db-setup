@@ -2,8 +2,8 @@
 #### setup
 The folder structure should be
 ```
-some_mp3_files/AlbumA/*.mp3
-some_mp3_files/ALbumB/*.mp3
+mp3extractor/some_mp3_files/AlbumA/*.mp3
+mp3extractor/some_mp3_files/ALbumB/*.mp3
 ```
 these are the albums i downloaded/extracted into some_mp3_files. idc about any of the music, just saying
 
